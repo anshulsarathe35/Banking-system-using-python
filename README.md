@@ -10,7 +10,10 @@ Tkinter can be easily implimented by importing the module, i.e. import tkinter a
 ![tkinter-tutorial](https://user-images.githubusercontent.com/99202913/198868784-8673f619-b460-485e-bcb8-87c3da82be6a.png)
 
 ###############################################
-Pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
+Pyttsx3 is a text-to-speech conversion library in Python.
+Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
+
+
 Installation:-
 pip install pyttsx3
 ![1_jSxljxAc_TbNQz7F2mvXiA](https://user-images.githubusercontent.com/99202913/198868874-2b6be159-1a93-4f86-9b1f-39fc695da53c.png)
