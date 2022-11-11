@@ -26,7 +26,6 @@ while True:
         speak("ACCESS DENIED")
 
 
-
 def is_number(s):
     try:
         float(s)
