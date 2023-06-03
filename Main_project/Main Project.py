@@ -24,7 +24,7 @@ while True:
         print("ACCESS GRANTED , YOU ARE DIRECTING TO THE  BANKING SYSTEM")
         break
     else:
-        print("ACCESS DENIED")
+        print("ACCESS DENIED!")
         speak("ACCESS DENIED")
 
 
